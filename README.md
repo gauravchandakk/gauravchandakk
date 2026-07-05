@@ -45,39 +45,6 @@
 
 
 
-<!-- ---
-
-### 📌 Featured Projects
-
-<!-- Replace with your own pinned/best repos -->
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/gauravchandakk/gym-tracker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravchandakk&repo=gym-tracker&theme=default" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/gauravchandakk/tiffin-management">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravchandakk&repo=tiffin-management&theme=default" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravchandakk&theme=default&hide_border=true" alt="GitHub Streak" />
-</p> -->
 
 ---
 
