@@ -45,7 +45,7 @@
 
 
 
----
+<!-- ---
 
 ### 📌 Featured Projects
 
@@ -77,7 +77,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravchandakk&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
